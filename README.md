@@ -1,4 +1,4 @@
-#**This is my solution to C programming tasks on Beecrowd**
+# **This is my solution to C programming tasks on Beecrowd**
 - beecrowd | 1000 - a program that prints hello world.
 - beecrowd | 1001 - a program that reads 2 variables, named A and B and make the sum of these 
 			two variables, assigning its result to the variable X.
